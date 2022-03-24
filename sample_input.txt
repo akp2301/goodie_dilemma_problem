@@ -1,0 +1,10 @@
+4
+Fitbit: 7980
+MI Band: 999
+Cult Pass: 2799
+Macbook Pro: 229900
+Camera: 11101
+Siri: 9999
+Toaster: 2195
+Oven: 9800
+Scale: 4999

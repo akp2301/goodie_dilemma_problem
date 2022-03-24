@@ -1,0 +1,8 @@
+The goodies selected for distribution are:
+
+Fitbit: 7980
+Oven: 9800
+Alexa: 9999
+Camera: 11101
+
+Difference between the chosen goodie with highest price and the lowest price is 3121
