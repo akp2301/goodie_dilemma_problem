@@ -1,7 +1,13 @@
+THE PROBLEM:
 The HR team of a company has goodies set of size N each with a different price tag for each goodie. Now the HR team has to distribute the goodies among the M employees in the company such that one employee receives one goodie.
 Find out the goodies the HR team can distribute so that the difference between the low price goodie and the high price goodie selected is minimum.
 
-Input:
+SAMPLE INPUTS:
+
+
+
+Input no.1:
+
 Goodies and Prices:
 Fitbit: 7980
 MI Band: 999
@@ -13,7 +19,7 @@ Toaster: 2195
 Oven: 9800
 Scale: 4999
 
-Example Output
+Example Output no.1
 
 Number of the employees selected: 4
 
@@ -25,6 +31,9 @@ Digital Camera: 11101
 
 Difference between the chosen goodie with highest price and the lowest price is 3121
 
+
+
+Input no.2:
 
 Number of employees selected: 6
 
@@ -38,6 +47,9 @@ Alexa: 9999
 
 Difference between the chosen goodie with highest price and the lowest price is 7804
 
+
+
+Input no.3:
 
 Number of employees selected: 2
 
