@@ -2,7 +2,7 @@ import argparse
 
 def find_goodies_with_least_difference(no_of_employees, inp_goodies_prices, output_file):
     if no_of_employees < 2:
-        print('Need atleast 2 emoloyees to solve the goodies dilemma')
+        print('Need atleast 2 empoloyees to solve the goodies dilemma')
         return
     price_values = list(inp_goodies_prices.keys())
     price_values.sort()
